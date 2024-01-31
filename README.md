@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aflakh Rasikh</h1>
 <h3 align="center">Software Engineering Student University Teknologi Malaysia(UTM)</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Know me:</h3>
+<p align="left">I am Student in Faculty of Computing (Software Engineering) in Universiti Teknologi Malaysia, Johor, Johor bahru
+
+🌍  I'm based in Indonesia
+✉️  You can contact me at amjadaflakh@gmail.com
+🖥️ See my portfolio at 
+🧠  I'm learning Software Engineering
+🤝  I'm open to collaborating on Projects & Assesment
+⚡  Nice to meet y'all cyaa from plaah
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
