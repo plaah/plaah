@@ -6,7 +6,7 @@
 
 <p>🌍  I'm based in Indonesia</p>
 <p>✉️  You can contact me at amjadaflakh@gmail.com</p>
-<p>🖥️ See my portfolio at [Aflakh's porto](</p>
+<p>🖥️ See my portfolio at <a href="https://plaah.github.io/">Aflakh's porto</p>
 <p>🧠  I'm learning Software Engineering</p>
 <p>🤝  I'm open to collaborating on Projects & Assesment</p>
 <p>⚡  Nice to meet y'all cyaa from plaah</p>
