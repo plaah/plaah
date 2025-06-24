@@ -1,15 +1,87 @@
 <h1 align="center">Hi 👋, I'm Aflakh Rasikh</h1>
-<h3 align="center">Software Engineering Student University Teknologi Malaysia(UTM)</h3>
+<h3 align="center">🚀 Software Engineering Student @ Universiti Teknologi Malaysia (UTM)</h3>
 
-<h3 align="left">Know me:</h3>
-<p align="left">I am Student in Faculty of Computing (Software Engineering) in Universiti Teknologi Malaysia, Johor, Johor bahru</p>
+---
 
-<p>🌍  I'm based in Indonesia</p>
-<p>✉️  You can contact me at amjadaflakh@gmail.com</p>
-<p>🖥️ See my portfolio at <a href="https://plaah.github.io/">Aflakh's porto</p>
-<p>🧠  I'm learning Software Engineering</p>
-<p>🤝  I'm open to collaborating on Projects & Assesment</p>
-<p>⚡  Nice to meet y'all cyaa from plaah</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+in+progress...;Always+Learning+New+Tech!;Let’s+Build+Something+Cool+Together!" alt="Typing SVG" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
+
+### 💡 About Me
+
+- 🎓 I'm currently pursuing **Software Engineering** at **UTM, Johor Bahru**  
+- 🌍 Originally from **Indonesia**, studying in **Malaysia**  
+- 🧠 Always learning – currently diving deeper into **Full-Stack Dev** & **Blockchain**
+- ⚡ Fun Fact: *I write code and sometimes design interfaces that don’t hurt your eyes!*
+- 🤝 I'm open to **collaborating** on projects, startups, and open source!
+
+---
+
+### 📬 Contact Me
+
+- 📧 Email: [amjadaflakh@gmail.com](mailto:amjadaflakh@gmail.com)  
+- 🌐 Portfolio: [plaah.github.io](https://plaah.github.io/)  
+- 💬 Let’s chat: I love connecting with fellow devs and creatives!
+
+---
+
+### 💻 Tech Stack & Tools
+
+#### 👨‍💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=fff" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+</p>
+
+#### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white" />
+</p>
+
+#### 🛠 Backend & Tools
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" />
+</p>
+
+#### 🔐 Blockchain & Smart Contracts
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remix-000000?logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3.js&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=plaah&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plaah&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+### ✨ Motto
+
+> *“Learning to code is learning to create and innovate.”*  
+> – From your friendly neighborhood dev, **plaah** 🧃
+
+---
+
