@@ -4,8 +4,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+in+progress...;Always+Learning+New+Tech!;Let’s+Build+Something+Cool+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer+in+progress...;Always+Learning+New+Tech!;Let%E2%80%99s+Build+Something+Cool+Together!" alt="Typing SVG" />
 </p>
+
 
 ---
 
