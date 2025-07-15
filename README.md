@@ -23,7 +23,7 @@
 ### 📬 Contact Me
 
 - 📧 Email: [amjadaflakh@gmail.com](mailto:amjadaflakh@gmail.com)  
-- 🌐 Portfolio: [plaah.github.io](https://plaah.github.io/)  
+- 🌐 Portfolio: [plaah.github.io]()  
 - 💬 Let’s chat: I love connecting with fellow devs and creatives!
 
 ---
